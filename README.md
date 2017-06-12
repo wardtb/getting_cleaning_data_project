@@ -1,7 +1,9 @@
 # getting_cleaning_data_project
 Coursera Getting and Cleaning Data Project
 
-Variable descriptions for all variables in final data set are contained in the codebook.xlsx file.
+- Codebook.xlsx - Variable names, data types, and descriptions for all variables in the dataset.
+- features_info.txt - Original document explaining feature variables from original data sets.
+- run_analysis.R - R script which modifies original data set according to the specifications of the project. This script assumes that the original data set files are in the user's working directory.
 
 Run_Analysis.R Steps
 
